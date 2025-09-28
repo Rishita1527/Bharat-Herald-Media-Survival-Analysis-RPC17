@@ -2,6 +2,8 @@
 This repository contains my submission for the **Codebasics Resume Project Challenge 17**.   It explores the decline of Bharat Herald, a 70+ year-old Indian newspaper, and provides data-driven insights and recommendations for its digital transition.  
 ---
 
+**[View Live Dashboard]([https://your-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiZDIxZWVjYjYtYmM4MC00NjFjLTgwZTYtZDNjZTgzNDA0MzhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))**
+
 ## 📖 Project Context  
 
 Bharat Herald once printed over **1 million copies daily**, but by 2024 this had fallen to nearly half.  
