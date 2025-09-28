@@ -110,23 +110,23 @@ The analysis was structured into **three levels**:
 
 ## 📊 Dashboard Preview  
 
-### Home Page
-![Page 1](screenshots/page1.png)
+### 🏠 Home Page  
+![Home Page](screenshots/page1.png)
 
-### Print Performance & Analysis
-![Page 2](screenshots/page2.png)
+### 📰 Print Performance & Analysis  
+![Print Performance](screenshots/page2.png)
 
-### City Performance & ROI Analysis
-![Page 3](screenshots/page3.png)
+### 🌆 City Performance & ROI Analysis  
+![City Performance](screenshots/page3.png)
 
-### Ad Category Performance Analysis
-![Page 4](screenshots/page4.png)
+### 📂 Ad Category Performance Analysis  
+![Ad Category Performance](screenshots/page4.png)
 
-### Digital Readiness & Relaunch Prioritization
-![Page 5](screenshots/page5.png)
+### 💻 Digital Readiness & Relaunch Prioritization  
+![Digital Readiness](screenshots/page5.png)
 
-### Data Model
-![Data Model](screenshots/Datamodel.png)
+### 🗂️ Data Model  
+![Data Model](screenshots/dataModel.png)
 ---
 
 **Rishita Singh**  
