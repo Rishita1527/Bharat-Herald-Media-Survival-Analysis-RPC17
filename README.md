@@ -126,7 +126,7 @@ The analysis was structured into **three levels**:
 ![Page 5](screenshots/page5.png)
 
 ### Data Model
-![Data Model](screenshots/Data Model.png)
+![Data Model](screenshots/Datamodel.png)
 ---
 
 **Rishita Singh**  
