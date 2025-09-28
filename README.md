@@ -111,19 +111,19 @@ The analysis was structured into **three levels**:
 ## 📊 Dashboard Preview  
 
 ### 🏠 Home Page  
-![Home Page](screenshots/page1.png)
+![Home Page](screenshots/Page1.png)
 
 ### 📰 Print Performance & Analysis  
-![Print Performance](screenshots/page2.png)
+![Print Performance](screenshots/Page2.png)
 
 ### 🌆 City Performance & ROI Analysis  
-![City Performance](screenshots/page3.png)
+![City Performance](screenshots/Page3.png)
 
 ### 📂 Ad Category Performance Analysis  
-![Ad Category Performance](screenshots/page4.png)
+![Ad Category Performance](screenshots/Page4.png)
 
 ### 💻 Digital Readiness & Relaunch Prioritization  
-![Digital Readiness](screenshots/page5.png)
+![Digital Readiness](screenshots/Page5.png)
 
 ### 🗂️ Data Model  
 ![Data Model](screenshots/dataModel.png)
