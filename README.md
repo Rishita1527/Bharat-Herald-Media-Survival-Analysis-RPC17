@@ -108,10 +108,25 @@ The analysis was structured into **three levels**:
 
 ---
 
-## 📷 Dashboard Preview  
+## 📊 Dashboard Preview  
 
-(Add screenshots from `/dashboard/screenshots/`)  
+### Home Page
+![Page 1](screenshots/page1.png)
 
+### Print Performance & Analysis
+![Page 2](screenshots/page2.png)
+
+### City Performance & ROI Analysis
+![Page 3](screenshots/page3.png)
+
+### Ad Category Performance Analysis
+![Page 4](screenshots/page4.png)
+
+### Digital Readiness & Relaunch Prioritization
+![Page 5](screenshots/page5.png)
+
+### Data Model
+![Data Model](screenshots/Data Model.png)
 ---
 
 **Rishita Singh**  
