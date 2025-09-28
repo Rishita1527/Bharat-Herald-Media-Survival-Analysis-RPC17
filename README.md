@@ -126,7 +126,7 @@ The analysis was structured into **three levels**:
 ![Digital Readiness](screenshots/Page5.png)
 
 ### 🗂️ Data Model  
-![Data Model](screenshots/dataModel.png)
+![Data Model](screenshots/DataModel.png)
 ---
 
 **Rishita Singh**  
